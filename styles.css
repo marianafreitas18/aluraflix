@@ -1,5 +1,23 @@
 body {
     color: white;
 background: black
+}
 
+head {
+    border: solid 2px rgb(114, 17, 33);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(114, 17, 33);
+}
+
+section {
+    background: rgb(114, 17, 33);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify- content: center;
+
+
+div {
+    msrgin-right: 20px;
 }   
