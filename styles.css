@@ -1,9 +1,11 @@
 body {
     color: white;
-background: black
+    background: black;
+    font-family: "Roberto Condensed", sans-serif;
+    margin: Opx;
 }
 
-head {
+header {
     border: solid 2px rgb(114, 17, 33);
     padding: 20px;
     font-size: 32px;
@@ -16,8 +18,19 @@ section {
     padding-top: 80px;
     display: flex;
     justify- content: center;
+}
 
 
-div {
-    msrgin-right: 20px;
-}   
+.chamada-texto {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
